@@ -1,0 +1,155 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+body {
+    /* display: block; */
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-bar {
+    background-color: rgb(173, 173, 173);
+    margin-bottom: 30px;
+    padding-bottom: 5px;
+    align-items: center;
+    width: 75%;
+    height: 60px;
+    display: flex;
+    display: space-between;
+}
+.nav-bar .nav-title {
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
+.nav-bar .search {
+    width: 50%;
+    padding: 5px 0px 5px 20px;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    border: 3px solid rgb(0, 0, 0);
+}
+.nav-bar .btn {
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    background-color: rgb(41, 95, 255);
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 3px 4px 1px 0px rgb(0, 0, 0);
+}
+/* top row */
+.flex-container {
+    background-color: rgb(255, 255, 255);
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.ninja1 {
+    background-color: #ffffff;
+    border: 3px solid rgb(0, 0, 0);
+    overflow: hidden;
+    padding: 10px 0px 10px 15px;
+    width: 60%;
+    height: 180;
+}
+
+.ninja1 .p1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0px 5px 0px;
+}
+.ninja1 p {
+    font-size: 20px;
+}
+.ninja1 .ninjabtn {
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background-color: rgb(41, 95, 255);
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 3px 4px 1px 0px rgb(0, 0, 0);
+}
+.dojonary {
+    background-color: #ffffff;
+    border: 3px solid rgb(0, 0, 0);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 0px 25px 0px;
+    width: 35%;
+    height: 180px;
+    margin-left: 5%;
+}
+.dojonary h2 {
+    font-size: 35px;
+    font-weight: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 10px 0px 10px 35px; */
+}
+.def-button {
+    width: 200px;
+    display: inline-block;
+    align-items: center;
+    justify-content: flex-end;
+    height: 45px;
+    font-size: 20px;
+    margin: 30px 0px 10px 5px; 
+    background-color: rgb(76, 175, 58);
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 3px 4px 1px 0px rgb(0, 0, 0);
+}
+
+/* bottom row */
+.flex-container2 {
+    background-color: rgb(255, 255, 255);
+    width: 75%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-top: 20px;
+}
+.ninja2 {
+    background-color: #ffffff;
+    border: 3px solid rgb(0, 0, 0);
+    justify-content: start;
+    overflow: hidden;
+    padding: 10px 0px 25px 15px;
+    width: 60%;
+    height: 180px;
+    margin-right: 39.6%;
+}
+
+.ninja2 .p1 {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0px 5px 0px;
+}
+.ninja2 p {
+    font-size: 20px;
+}
+.ninja2 .ninjabtn {
+    width: 100px;
+    height: 35px;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(41, 95, 255);
+    color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 3px 4px 1px 0px rgb(0, 0, 0);
+}
+/* right column */
+
+
+

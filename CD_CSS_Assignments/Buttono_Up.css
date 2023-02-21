@@ -1,0 +1,40 @@
+ .search {
+    color: rgb(54, 178, 194);
+    background-color: rgb(248, 245, 245);
+    border: 2.3px solid rgb(41, 179, 165);
+    border-radius: 30px;
+    font-size: 15px;
+    font-display: block;
+    margin: 10px;
+    margin-top: 30px;
+    width: 150px;
+    height: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.plus {
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 205, 205);
+    border: 2px solid rgb(50, 205, 205);
+    border-radius: 50px;
+    height: 35px;
+    width: 35px;
+    margin: 10px;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    font-display: block;
+}
+.create {
+    color: rgb(255, 255, 255);
+    background-color: rgb(49, 104, 232); 
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 200;
+    font-display: block;
+    margin: 10px;
+    height: 30px;
+    width: 185px;
+    border: 3px solid rgb(0, 0, 0);
+    box-shadow: 2.8px 3.7px 1.8px rgb(0, 0, 0);
+}
+
+

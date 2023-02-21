@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(83, 235, 255);
+    background-color: black;
+    font-size: 50px;
+    font-family: Georgia, serif;
+}
+.my {
+    color: rgb(255, 255, 255);
+}
+h2 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(92, 0, 146);
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 50;
+    text-align: center;
+    font-size: 25px
+}
+
+h3 {
+    color: rgb(0, 0, 0);
+    background-color: rgba(76, 121, 254, 0.719);
+    text-decoration: underline;
+    font-family: sans-serif;
+    font-weight: 20;
+    text-align: right;
+    font-size: 20px
+}
